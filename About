@@ -1,3 +1,7 @@
 <h1> Xin chao cac ban </h1>
 <p> Minh la Crystal. Minh dang hoc su dung Git </p>
+<<<<<<< HEAD
 <p1> Tao Conflict </p1>
+=======
+<p> Rat vui duoc moi nguoi ghe tham va giup do them </p>
+>>>>>>> 34307694f35dac043e2df36cd2b0e640898756db
